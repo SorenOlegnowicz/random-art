@@ -2,26 +2,9 @@
 
 ## Description
 
-Create art using Python's random module and math functions.
+Uses randomized maths to generate digital tapestries.
 
-## Objectives
-
-### Learning Objectives
-
-After completing this assignment, you should understand:
-
-* Randomness
-* The Python `random` module
-* The sublime beauty of generated art
-
-### Performance Objectives
-
-After completing this assignment, you should be able to:
-
-* Generate images with Python
-* Use randomness to construct new functions
-
-## Details
+## Assignment Details
 
 ### Deliverables
 
@@ -29,8 +12,6 @@ After completing this assignment, you should be able to:
   * `README.md` file explaining how to run your project
   * a `requirements.txt` file
   * a `random_art` module
-  * Your favorite piece of art you made, plus instructions
-    on how to replicate it.
 
 ### Requirements  
 
